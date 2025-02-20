@@ -13,3 +13,13 @@ linguistics. This could be used to compare the features
 of different languages in a tabular manner, tracking the 
 morphemes and syntax structure frequencies in different 
 sampled speakers of each language.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging takes two branches and combines them, 
+while rebasing takes the commits from one branch and 
+moves them on top of another. Thus, merging preserves 
+all of the previous commits in each of the combined 
+branches, while rebasing creates a clearner line of 
+commits.
