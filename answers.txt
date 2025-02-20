@@ -1,0 +1,8 @@
+Q2: What field could data science be applied to? Give an 
+Example.
+
+Answer: Data science could be applied to the field of 
+linguistics. This could be used to compare the features 
+of different languages in a tabular manner, tracking the 
+morphemes and syntax structure frequencies in different 
+sampled speakers of each language.
