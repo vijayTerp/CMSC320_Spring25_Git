@@ -23,3 +23,8 @@ moves them on top of another. Thus, merging preserves
 all of the previous commits in each of the combined 
 branches, while rebasing creates a clearner line of 
 commits.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning more about the 
+applications of data science techniques on other fields.
